@@ -2,4 +2,4 @@
 
 Esta sere de libros cuentan la historia de un Hacker excepcional.
 
-**David de la Puente**
+**David de la Puente**, Git fan
